@@ -5,6 +5,10 @@ body {
   margin: 10% 20%;  
 }
 
+.candidate-name {
+  border-bottom: .1px solid #dddddd;
+}
+
 .exp-header {
   text-align: center;
   text-transform: uppercase;
