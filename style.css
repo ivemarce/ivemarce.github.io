@@ -6,7 +6,12 @@ body {
 }
 
 .candidate-name {
-  border-bottom: .1px solid #dddddd;
+   border-bottom: .1px solid #dddddd;
+   background-color: #fcf3cf;
+   color: #444444;
+   padding-left: 2px;
+   padding-top: 5px
+   
 }
 
 .exp-header {
@@ -24,3 +29,19 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0,0.1)
 }
+
+.exp-details {
+   
+}
+
+img  {
+     width: 9%;
+     padding: 5px 5px 5px 5px;
+     
+     float: right;      
+    }
+footer {
+     text-align: center;
+     padding: 1px;
+     color: white;      
+    }
